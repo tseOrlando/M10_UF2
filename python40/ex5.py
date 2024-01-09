@@ -1,0 +1,1 @@
+print("el número és " +  ("parell" if int(input("num\n")) % 2 == 0 else "senar"))

@@ -1,0 +1,1 @@
+print(input("valor 1\n") + input("valor 2\n"))
