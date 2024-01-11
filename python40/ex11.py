@@ -1,0 +1,1 @@
+print(tuple(x for x in range(int(input("give a num 1 to 100\n")) + 1)))
