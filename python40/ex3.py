@@ -1,0 +1,1 @@
+print("el valor mes gran es el " + ("primer" if int(input("num 1\n")) > int(input("num 2\n")) else "segon"))
