@@ -1,1 +1,1 @@
-print([n if n % 2 != 0 else "" for n in range(500)])
+print(n if n % 2 != 0 else "" for n in range(500))

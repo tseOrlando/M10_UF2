@@ -1,0 +1,1 @@
+print(sorted(tuple(eval(x) for x in input("10 nums separats por espacios\n").split())))

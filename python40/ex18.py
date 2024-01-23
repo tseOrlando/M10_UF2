@@ -1,0 +1,1 @@
+for x in tuple(input("2 paraules\n").split()): print({c:x.count(c) for c in x})

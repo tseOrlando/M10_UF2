@@ -1,0 +1,1 @@
+print(tuple(x for x in input("frase\n").split())) 
