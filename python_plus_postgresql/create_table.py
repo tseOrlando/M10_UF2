@@ -1,4 +1,4 @@
-from connection import *
+from global_imports import *
 
 def create_table():
 
