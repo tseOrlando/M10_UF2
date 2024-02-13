@@ -11,4 +11,4 @@ def shop(d):
                  
     print(f"final price : {((gprice * (int(input("iva\n")) / 100)) + gprice)}\noriginal price : {gprice}")
 
-shop({100:10, 250:5, 1500:30})
+shop({100:10})

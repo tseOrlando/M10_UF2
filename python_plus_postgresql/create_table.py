@@ -1,5 +1,7 @@
 from global_imports import *
 
+#creates the table 'users'
+
 def create_table():
 
     if (input("do you want to create 'users' table? y/n\n") == 'y'):
